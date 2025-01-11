@@ -169,5 +169,3 @@ if __name__ == "__main__":
     create_structure(base_dir, PROJECT_STRUCTURE)
     print(f"Estructura del proyecto creada en: {base_dir}")
 
-#TODO: Revisar HELP.md de cada archivo y directorio
-#TODO: Modificar los ejemplos de driven port  adapter de enrich para que sean de un servicio de transcribir por ejemplo y no de update content
